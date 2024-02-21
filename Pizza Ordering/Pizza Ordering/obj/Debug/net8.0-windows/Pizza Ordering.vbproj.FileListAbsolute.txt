@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\bin\Debug\net8.0-windows\Pizza Ordering.exe
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\bin\Debug\net8.0-windows\Pizza Ordering.deps.json
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\bin\Debug\net8.0-windows\Pizza Ordering.runtimeconfig.json
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\bin\Debug\net8.0-windows\Pizza Ordering.dll
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\bin\Debug\net8.0-windows\Pizza Ordering.pdb
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza_Ordering.Form1.resources
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.dll
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\refint\Pizza Ordering.dll
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.pdb
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\Pizza Ordering.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\pizza-ordering\Pizza Ordering\Pizza Ordering\obj\Debug\net8.0-windows\ref\Pizza Ordering.dll
